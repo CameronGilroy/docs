@@ -14,7 +14,12 @@
 
 ## dummy
 
-## eway_shared
+
+## eWay Secure Hosted Page
+
+Payment processing using eWAY's Secure Hosted Page
+
+Documentation: [http://www.eway.com.au/_files/documentation/HostedPaymentPageDoc.pdf](http://www.eway.com.au/_files/documentation/HostedPaymentPageDoc.pdf "eWay Secure Hosted Page")
 
 ## eWay
 
