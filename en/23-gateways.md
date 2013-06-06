@@ -16,6 +16,7 @@ This is a list of payment gateways that FireSale supports.
 
 ## dummy
 
+The default payment gateway. This payment gateway doesn't charge any one anything.
 
 ## eWay Secure Hosted Page
 
