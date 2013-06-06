@@ -1,3 +1,5 @@
+This is a list of payment gateways that FireSale supports.
+
 ## 2checkout
 
 ## authorize_net_sim
