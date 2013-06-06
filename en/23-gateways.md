@@ -38,9 +38,19 @@ Documentation: [http://www.eway.com.au/Developer/eway-api/hosted-payment-solutio
 
 ## paypal_base
 
+Base class for Paypal Pro and Paypal Express
+
 ## paypal_express
 
+Payment processing using Paypal Express Checkout
+
+Documentation: [https://cms.paypal.com/cms_content/US/en_US/files/developer/PP_ExpressCheckout_IntegrationGuide.pdf](https://cms.paypal.com/cms_content/US/en_US/files/developer/PP_ExpressCheckout_IntegrationGuide.pdf "Paypal Express Checkout Integration Guide")
+
 ## paypal_pro
+
+Payment processing using Paypal Payments Pro
+
+Documentation: [https://cms.paypal.com/cms_content/US/en_US/files/developer/PP_NVPAPI_DeveloperGuide.pdf](https://cms.paypal.com/cms_content/US/en_US/files/developer/PP_NVPAPI_DeveloperGuide.pdf "Paypal Pro Developer Guide")
 
 ## rabo_omnikassa
 
