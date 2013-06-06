@@ -27,6 +27,7 @@ Documentation: [http://www.eway.com.au/_files/documentation/HostedPaymentPageDoc
 ## eWay
 
 Payment processing using eWAY
+
 Documentation: [http://www.eway.com.au/Developer/eway-api/hosted-payment-solution.aspx](http://http://www.eway.com.au/Developer/eway-api/hosted-payment-solution.aspx/ "eWay") 
 
 ## gocardless
